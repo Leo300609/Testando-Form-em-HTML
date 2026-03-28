@@ -22,3 +22,4 @@ Este projeto consiste em uma interface de cadastro para venda de veículos, dese
 
 ---
 Desenvolvido como parte dos meus estudos em Análise e Desenvolvimento de Sistemas (ADS). 💻🔥
+Com base no curso de Front-End completo do Matheus Battisti.
